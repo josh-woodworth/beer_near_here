@@ -1,8 +1,9 @@
 # BeerNearHere
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/beer_near_here`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to Beer Near Here! this program can be used to search for local breweries in a city of your choice. 
+from there you can select a brewery you want to learn more about, you will get the name, address, phone number and website url!
 
-TODO: Delete this and the text above, and describe your gem
+Enjoy the program and go enjoy some beer!!
 
 ## Installation
 

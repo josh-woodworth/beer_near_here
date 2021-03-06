@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Josh Woodworth"]
   spec.email         = ["josh.woodworth3@gmail.com"]
 
-  spec.summary       = "A CLI program that will search an API database to find breweries in states that are searched."
+  spec.summary       = "A CLI program that will search an API database to find breweries in cities that are searched."
   spec.homepage      = "https://github.com/josh-woodworth/beer_near_here.git"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
@@ -31,7 +31,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "pry"
   spec.add_development_dependency "bundler"
   spec.add_development_dependency "rake"
-  spec.add_dependency 'httparty'
+  spec.add_dependency 'net-http'
 
   # For more information and examples about making a new gem, checkout our
   # guide at: https://bundler.io/guides/creating_gem.html
